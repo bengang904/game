@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Minecraft",
+    "icon": "images/Minecraft.jpg",
+    "description": "《Eaglercraft 1.8》 即 Minecraft Java 1.8 移植到网页的非官方版本，支持单人和多人模式，用 WebGL 与 WASM 实现，无需安装客户端即可运行。",
+    "url": "https://mc.2024-10-24.zip"
+  },
+  {
+    "name": "Angry Birds",
+    "icon": "images/angrybirds.jpg",
+    "description": "《Angry Birds Chrome》 是 Angry Birds 的 Chrome 版本，由 Rovio 开发，基于HTML5运行，无需插件即可游玩。",
+    "url": "https://game.2024-10-24.zip/angrybirds"
+  },
+  {
+    "name": "Fruit Ninja",
+    "icon": "images/FruitNinja.jpg",
+    "description": "《Fruit Ninja》 是一款由 Halfbrick Studios 开发的休闲游戏，玩家通过滑动手指切水果得分，需避开炸弹。游戏节奏快、操作简单，是手机上最受欢迎的经典小游戏之一。",
+    "url": "https://game.2024-10-24.zip/FruitNinja"
+  },
+  {
+    "name": "Subway Surfers",
+    "icon": "images/SubwaySurfers.jpg",
+    "description": "《Subway Surfers：拉斯维加斯》 由 Kiloo 和 SYBO Games 共同开发，以美国拉斯维加斯为主题。玩家在霓虹灯与赌场风格的街景中奔跑、躲避障碍、收集金币和道具。",
+    "url": "https://game.2024-10-24.zip/SubwaySurfers"
+  },
+  {
+    "name": "Super Mario 64",
+    "icon": "images/SuperMario64.jpg",
+    "description": "《Super Mario 64 PC》 是将任天堂 N64 游戏 Super Mario 64 通过 逆向工程技术移植到 PC 平台的版本。",
+    "url": "https://game.2024-10-24.zip/SuperMario64/classic"
+  },
+  {
+    "name": "Flash 游戏..",
+    "icon": "https://2024-10-24.zip/images/flash.jpg",
+    "description": "Ruffle Flash 是一个由社区开发的 开源 Flash Player 模拟器，它使用 Rust 语言编写，能在现代浏览器中安全地运行 .swf 文件，无需安装原版 Adobe Flash。",
+    "url": "https://flash.2024-10-24.zip"
+  }
+]
