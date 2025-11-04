@@ -1,15 +1,21 @@
 [
-  {
-    "name": "Minecraft",
-    "icon": "images/Minecraft.jpg",
-    "description": "《Eaglercraft 1.8》 即 Minecraft Java 1.8 移植到网页的非官方版本，支持单人和多人模式，用 WebGL 与 WASM 实现，无需安装客户端即可运行。",
-    "url": "https://mc.2024-10-24.zip"
+   {
+    "name": "Diablo",
+    "icon": "images/Diablo.jpg",
+    "description": "《暗黑破坏神1》是暴雪于1996年推出的动作角色扮演游戏。玩家深入崔斯特瑞姆教堂地下，对抗恶魔与地狱之王迪亚波罗。游戏以随机地牢、刷怪打宝、紧张氛围著称，奠定了ARPG经典模式。",
+    "url": "https://game.2024-10-24.zip/diabloweb"
   },
   {
     "name": "Fruit Ninja",
     "icon": "images/FruitNinja.jpg",
     "description": "《Fruit Ninja》 是一款由 Halfbrick Studios 开发的休闲游戏，玩家通过滑动手指切水果得分，需避开炸弹。游戏节奏快、操作简单，是手机上最受欢迎的经典小游戏之一。",
     "url": "https://game.2024-10-24.zip/FruitNinja"
+  },
+  {
+    "name": "Minecraft",
+    "icon": "images/Minecraft.jpg",
+    "description": "《Eaglercraft 1.8》 即 Minecraft Java 1.8 移植到网页的非官方版本，支持单人和多人模式，用 WebGL 与 WASM 实现，无需安装客户端即可运行。",
+    "url": "https://mc.2024-10-24.zip"
   },
   {
     "name": "Subway Surfers",
