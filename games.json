@@ -34,5 +34,11 @@
     "icon": "https://2024-10-24.zip/images/flash.jpg",
     "description": "Ruffle Flash 是一个由社区开发的 开源 Flash Player 模拟器，它使用 Rust 语言编写，能在现代浏览器中安全地运行 .swf 文件，无需安装原版 Adobe Flash。",
     "url": "https://flash.2024-10-24.zip"
+  },
+  {
+    "name": "N64 游戏..",
+    "icon": "https://2024-10-24.zip/images/N64.jpg",
+    "description": "N64 游戏就是为任天堂 Nintendo 64 游戏机制作的游戏。这些游戏现在常见为 .z64、.n64 或 .v64 文件，是当年游戏卡带的数字镜像版本（ROM）。",
+    "url": "https://n64.2024-10-24.zip"
   }
 ]
