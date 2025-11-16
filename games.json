@@ -29,6 +29,12 @@
     "description": "《Super Mario 64 PC》 是将任天堂 N64 游戏 Super Mario 64 通过 逆向工程技术移植到 PC 平台的版本。",
     "url": "https://game.2024-10-24.zip/SuperMario64/classic"
   },
+    {
+    "name": "TombRaider",
+    "icon": "images/TombRaider.jpg",
+    "description": "《古墓丽影》是一款经典 3D 动作冒险游戏，以探险家劳拉·克劳馥为主角，通过解谜、跳跃和探索古墓遗迹展开冒险。自 1996 年推出以来影响巨大，是冒险类型的代表作之一。",
+    "url": "https://game.2024-10-24.zip/TombRaider"
+  },
   {
     "name": "Flash 游戏..",
     "icon": "https://2024-10-24.zip/images/flash.jpg",
