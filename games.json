@@ -17,6 +17,12 @@
     "description": "《Eaglercraft 1.8》 即 Minecraft Java 1.8 移植到网页的非官方版本，支持单人和多人模式，用 WebGL 与 WASM 实现，无需安装客户端即可运行。",
     "url": "https://mc.2024-10-24.zip"
   },
+   {
+    "name": "RedAlert2",
+    "icon": "images/RedAlert2.jpg",
+    "description": "《Chronodivide》是一个将红色警戒2移植到浏览器运行的项目，通过 Web 技术复现原版逻辑，可在网页中进行对战。项目不含原版文件，需手动导入 MIX 资源。",
+    "url": "https://game.2024-10-24.zip/RedAlert2"
+  },
   {
     "name": "Subway Surfers",
     "icon": "images/SubwaySurfers.jpg",
