@@ -52,5 +52,11 @@
     "icon": "https://2024-10-24.zip/images/N64.jpg",
     "description": "N64 游戏就是为任天堂 Nintendo 64 游戏机制作的游戏。这些游戏现在常见为 .z64、.n64 或 .v64 文件，是当年游戏卡带的数字镜像版本（ROM）。",
     "url": "https://n64.2024-10-24.zip"
+  },
+   {
+    "name": "GBA 游戏..",
+    "icon": "https://2024-10-24.zip/images/gba.jpg",
+    "description": "GBA 游戏是运行在任天堂 Game Boy Advance 掌机上的游戏，多为 2D 像素风，涵盖 RPG、动作、策略等类型。它们节奏紧凑、玩法成熟，是掌机游戏史上的经典代表。",
+    "url": "https://gba.2024-10-24.zip"
   }
 ]
