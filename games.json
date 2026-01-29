@@ -29,12 +29,7 @@
     "description": "《Subway Surfers》是 Kiloo 与 SYBO 开发的经典跑酷手游。在铁路上涂鸦的少年，被警察追赶，需要在铁轨间左右移动、跳跃、下滑，躲避列车与障碍物，同时收集金币、道具与角色皮肤。",
     "url": "https://game.2024-10-24.zip/subway-surfers"
   },
-  {
-    "name": "Super Mario 64",
-    "icon": "images/SuperMario64.jpg",
-    "description": "《Super Mario 64 PC》 是将任天堂 N64 游戏 Super Mario 64 通过 逆向工程技术移植到 PC 平台的版本。",
-    "url": "https://game.2024-10-24.zip/SuperMario64/classic"
-  },
+
     {
     "name": "TombRaider",
     "icon": "images/TombRaider.jpg",
