@@ -59,5 +59,11 @@
     "icon": "https://2024-10-24.zip/images/gba.jpg",
     "description": "GBA 游戏是运行在任天堂 Game Boy Advance 掌机上的游戏，多为 2D 像素风，涵盖 RPG、动作、策略等类型。它们节奏紧凑、玩法成熟，是掌机游戏史上的经典代表。",
     "url": "https://gba.2024-10-24.zip"
+  },
+   {
+    "name": "J2ME 游戏..",
+    "icon": "https://2024-10-24.zip/images/j2me.jpg",
+    "description": "J2ME 游戏是运行在早期功能机上的 Java 手机游戏，常见于诺基亚、索爱等设备，文件多为 .jar 格式，画面简单、操作依赖方向键，是智能手机出现前最流行的移动游戏形式。",
+    "url": "https://j2me.2024-10-24.zip"
   }
 ]
