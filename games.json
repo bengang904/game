@@ -23,6 +23,12 @@
     "description": "《Chronodivide》是一个将红色警戒2移植到浏览器运行的项目，通过 Web 技术复现原版逻辑，可在网页中进行对战。项目不含原版文件，需手动导入 MIX 资源。",
     "url": "https://game.2024-10-24.zip/RedAlert2"
   },
+   {
+    "name": "Plants vs. Zombies",
+    "icon": "images/Plants vs. Zombies.jpg",
+    "description": "《Plants vs. Zombies》是一款经典的益智策略塔防游戏。玩家需在草坪上种植向日葵、豌豆射手等各具异能的植物，通过合理的资源管理与阵型规划，抵御具有不同特性的僵尸进攻，保卫家园大脑。",
+    "url": "https://pvz.2024-10-24.zip"
+  },
   {
     "name": "Subway Surfers",
     "icon": "images/SubwaySurfers.jpg",
