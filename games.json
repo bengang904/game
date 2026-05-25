@@ -66,6 +66,12 @@
     "description": "N64 游戏就是为任天堂 Nintendo 64 游戏机制作的游戏。这些游戏现在常见为 .z64、.n64 或 .v64 文件，是当年游戏卡带的数字镜像版本（ROM）。",
     "url": "https://n64.2024-10-24.zip"
   },
+    {
+    "name": "PlayStation 游戏..",
+    "icon": "https://2024-10-24.zip/images/ps1.jpg",
+    "description": "PlayStation 游戏是索尼推出的家用游戏机上的作品。它标志着游戏从2D向3D立体时代的革命性跨越，采用CD-ROM作为载体，带来了画质、音效和容量的飞跃。",
+    "url": "https://playstation.2024-10-24.zip/"
+  },
    {
     "name": "GBA 游戏..",
     "icon": "https://2024-10-24.zip/images/gba.jpg",
