@@ -42,6 +42,12 @@
     "description": "《古墓丽影》是一款经典 3D 动作冒险游戏，以探险家劳拉·克劳馥为主角，通过解谜、跳跃和探索古墓遗迹展开冒险。自 1996 年推出以来影响巨大，是冒险类型的代表作之一。",
     "url": "https://game.2024-10-24.zip/TombRaider"
   },
+   {
+    "name": "Terraria",
+    "icon": "images/Terraria.jpg",
+    "description": "《Terraria》是一款高自由度的2D沙盒动作冒险游戏。玩家可在像素世界中自由挖掘、收集资源、建造房屋并制造装备。游戏核心在于丰富的探索要素与硬核的Boss战斗，融合了建造与RPG开荒的独特乐趣。",
+    "url": "https://terraria.2024-10-24.zip"
+  },
   {
     "name": "Flash 游戏..",
     "icon": "https://2024-10-24.zip/images/flash.jpg",
