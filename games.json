@@ -1,4 +1,10 @@
-[
+[ 
+   {
+    "name": "Counter Strike 1.6",
+    "icon": "images/Counter Strike 1.6.jpg",
+    "description": "《Counter-Strike 1.6》是一款由 Valve 开发、于 2003 年推出的第一人称战术射击游戏巨作。游戏以警匪对抗为核心，围绕安放炸弹与营救人质展开，凭借极高的竞技性、平衡性及经典的经济系统，成为风靡全球的电子竞技传奇与几代人的青春记忆。",
+    "url": "https://cs16.2024-10-24.zip"
+  },
    {
     "name": "Diablo-1",
     "icon": "images/Diablo.jpg",
