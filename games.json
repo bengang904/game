@@ -41,7 +41,12 @@
     "description": "《Subway Surfers》是 Kiloo 与 SYBO 开发的经典跑酷手游。在铁路上涂鸦的少年，被警察追赶，需要在铁轨间左右移动、跳跃、下滑，躲避列车与障碍物，同时收集金币、道具与角色皮肤。",
     "url": "https://game.2024-10-24.zip/subway-surfers"
   },
-
+ {
+    "name": "Quake III Arena",
+    "icon": "images/Quake III Arena.jpg",
+    "description": "《Quake III Arena》是由id Software开发的经典第一人称竞技场射击游戏（AFPS）。该作摒弃传统单机剧情，，以其卓越的物理引擎、极速的跑跳机制和高技术含量的枪法要求，成为电竞史上最具影响力的竞技神作之一。",
+    "url": "https://quake3.2024-10-24.zip/?demo"
+  },
     {
     "name": "TombRaider",
     "icon": "images/TombRaider.jpg",
