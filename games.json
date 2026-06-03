@@ -17,6 +17,12 @@
     "description": "《Quake III Arena》是由id Software开发的经典第一人称竞技场射击游戏（AFPS）。该作摒弃传统单机剧情，，以其卓越的物理引擎、极速的跑跳机制和高技术含量的枪法要求，成为电竞史上最具影响力的竞技神作之一。",
     "url": "https://quake3.2024-10-24.zip/?demo"
   },
+    {
+    "name": "Return to Castle Wolfenstein",
+    "icon": "images/Return to Castle Wolfenstein.jpg",
+    "description": "《Return to Castle Wolfenstein》是一款经典的二战题材第一人称射击游戏。玩家扮演特工 B.J. Blazkowicz，深入纳粹基地执行任务，对抗超自然力量。该作以其卓越的关卡设计和紧张的战斗体验，成为 FPS 游戏史上里程碑式的作品。",
+    "url": "rtcw.2024-10-24.zip"
+  },
   {
     "name": "Minecraft",
     "icon": "images/Minecraft.jpg",
