@@ -53,6 +53,12 @@
     "description": "《Stardew Valley》是一款风靡全球的经典像素风模拟经营类 RPG 游戏。玩家将继承爷爷的旧农场，通过垦荒种地、饲养动物、采矿钓鱼来重振乡村；同时能与小镇居民深度社交、恋爱结婚，享受极具沉浸感且节奏自由的乡村田园生活。",
     "url": "https://stardew-valley.2024-10-24.zip"
   },
+     {
+    "name": "Balatro",
+    "icon": "images/Balatro.jpg",
+    "description": "《Balatro》是一款由独立开发者 LocalThunk 制作、PlayStack 发行的 Roguelike 卡牌构筑游戏，这款游戏在 2024 年发布后迅速风靡全球。",
+    "url": "https://balatro.2024-10-24.zip"
+  },
   {
     "name": "Flash 游戏..",
     "icon": "https://2024-10-24.zip/images/flash.jpg",
