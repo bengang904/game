@@ -1,4 +1,10 @@
 [ 
+    {
+    "name": "Grand Theft Auto: Vice City",
+    "icon": "images/gtavc.jpg",
+    "description": "《侠盗猎车手：罪恶都市》是Rockstar Games于2002年推出的经典开放世界动作冒险游戏。背景设定在1986年的虚构城市“罪恶都市”，玩家扮演汤米·维赛迪，通过完成帮派任务、经营产业，在充满复古80年代霓虹色彩与迈阿密风情的犯罪世界中崛起。",
+    "url": "https://gtavc.2024-10-24.zip"
+  },
    {
     "name": "Counter Strike 1.6",
     "icon": "images/Counter Strike 1.6.jpg",
