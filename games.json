@@ -23,6 +23,12 @@
     "description": "《Quake III Arena》是由id Software开发的经典第一人称竞技场射击游戏（AFPS）。该作摒弃传统单机剧情，，以其卓越的物理引擎、极速的跑跳机制和高技术含量的枪法要求，成为电竞史上最具影响力的竞技神作之一。",
     "url": "https://quake3.2024-10-24.zip/?demo"
   },
+     {
+    "name": "SuperTuxKart",
+    "icon": "images/SuperTuxKart.jpg",
+    "description": "《SuperTuxKart》是多平台卡丁车竞速游戏，继承自TuxKart，由Game of the Month团队改良而成。使用自由软件的吉祥物作为赛车手，可以分屏进行多人游戏。游戏形式上模仿马力欧赛车，以最快到达终点为目的，在赛道上运用各种伎俩超出，包括使用路上的道具干扰对手的行动。",
+    "url": "https://supertuxkart.2024-10-24.zip/"
+  },
     {
     "name": "Return to Castle Wolfenstein",
     "icon": "images/Return to Castle Wolfenstein.jpg",
