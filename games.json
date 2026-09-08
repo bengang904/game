@@ -5,6 +5,12 @@
     "description": "《侠盗猎车手：罪恶都市》是Rockstar Games于2002年推出的经典开放世界动作冒险游戏。背景设定在1986年的虚构城市“罪恶都市”，玩家扮演汤米·维赛迪，通过完成帮派任务、经营产业，在充满复古80年代霓虹色彩与迈阿密风情的犯罪世界中崛起。",
     "url": "https://gtavc.2024-10-24.zip"
   },
+    {
+    "name": "Grand Theft Auto: III",
+    "icon": "images/gta3.jpg",
+    "description": "《侠盗猎车手 3》是Rockstar Games于2001年推出的3D开放世界动作冒险游戏。玩家扮演克劳德，在自由城中驾驶、战斗、完成任务并探索城市。它奠定了现代3D开放世界GTA系列的基础。",
+    "url": "https://gta3.2024-10-24.zip"
+  },
    {
     "name": "Counter Strike 1.6",
     "icon": "images/Counter Strike 1.6.jpg",
