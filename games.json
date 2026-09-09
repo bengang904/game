@@ -18,10 +18,16 @@
     "url": "https://cs16.2024-10-24.zip"
   },
    {
-    "name": "Diablo-1",
+    "name": "Diablo",
     "icon": "images/Diablo.jpg",
-    "description": "《暗黑破坏神-1》是暴雪于1996年推出的动作角色扮演游戏。玩家深入崔斯特瑞姆教堂地下，对抗恶魔与地狱之王迪亚波罗。游戏以随机地牢、刷怪打宝、紧张氛围著称，奠定了ARPG经典模式。",
+    "description": "《Diablo》是暴雪于1996年推出的动作角色扮演游戏。玩家深入崔斯特瑞姆教堂地下，对抗恶魔与地狱之王迪亚波罗。游戏以随机地牢、刷怪打宝、紧张氛围著称，奠定了ARPG经典模式。",
     "url": "https://diablo.2024-10-24.zip"
+  },
+     {
+    "name": "Morrowind",
+    "icon": "images/Morrowind.jpg",
+    "description": "《Morrowind》是是2002年推出的开放世界RPG，玩家探索晨风省瓦登费尔岛，拥有极高自由度，可自定义职业、魔法和玩法。游戏剧情围绕红山、Dagoth Ur和古老文明展开，是《上古卷轴》系列中自由探索与角色扮演深度最高的作品之一。",
+    "url": "https://openmw.2024-10-24.zip"
   },
     {
     "name": "Quake III Arena",
