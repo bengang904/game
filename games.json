@@ -29,6 +29,12 @@
     "description": "《Quake III Arena》是由id Software开发的经典第一人称竞技场射击游戏（AFPS）。该作摒弃传统单机剧情，，以其卓越的物理引擎、极速的跑跳机制和高技术含量的枪法要求，成为电竞史上最具影响力的竞技神作之一。",
     "url": "https://quake3.2024-10-24.zip/?demo"
   },
+      {
+    "name": "Unreal Tournament 99",
+    "icon": "images/Unreal Tournament 99.jpg",
+    "description": "《Unreal Tournament 99》是 Epic Games 于1999年推出的经典多人第一人称射击游戏。玩家使用各种科幻武器，在竞技场中进行死亡竞赛、夺旗、突击等模式对战。它以高速战斗、强大引擎、丰富MOD和地图编辑能力闻名，是竞技FPS历史上的重要作品。",
+    "url": "https://ut99.2024-10-24.zip"
+  },
      {
     "name": "SuperTuxKart",
     "icon": "images/SuperTuxKart.jpg",
