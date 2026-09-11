@@ -1,57 +1,117 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #0d0d0d;
+    color: #c0c0c0;
     margin: 0;
     padding: 0;
+    min-height: 100vh;
+    position: relative;
+    overflow-x: hidden;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 9999;
+    background: repeating-linear-gradient(
+        0deg,
+        rgba(0, 0, 0, 0.35) 0px,
+        rgba(0, 0, 0, 0.35) 1px,
+        transparent 1px,
+        transparent 3px
+    );
+    opacity: 0.85;
+}
+
+body::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 9998;
+    background: radial-gradient(ellipse at center, transparent 50%, rgba(0, 0, 0, 0.45) 100%);
 }
 
 .container {
     width: 100%;
     margin: 0 auto;
     padding-top: 30px;
+    position: relative;
+    z-index: 1;
 }
 
 .row {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center; 
+    justify-content: center;
 }
 
 .game-card {
-    width: 200px; 
+    width: 200px;
     margin: 15px;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(145deg, #1a1a1a, #121212);
+    border: 1px solid #2a2a2a;
+    border-radius: 10px;
+    box-shadow: 
+        0 4px 12px rgba(0, 0, 0, 0.6),
+        inset 0 1px 0 rgba(255, 255, 255, 0.05);
     overflow: hidden;
-    padding: 15px; /* 调整卡片内边距 */
+    padding: 18px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    text-align: center; 
+    text-align: center;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.game-card:hover {
+    transform: translateY(-4px);
+    border-color: #444;
+    box-shadow: 
+        0 8px 20px rgba(0, 0, 0, 0.7),
+        inset 0 1px 0 rgba(255, 255, 255, 0.08);
 }
 
 .card {
     border: none;
     padding: 0;
+    background: transparent;
 }
 
 .card-img-top {
-    width: 100px; 
-    height: 100px; 
+    width: 100px;
+    height: 100px;
     object-fit: cover;
+    border-radius: 6px;
+    border: 1px solid #666;
+    margin: 0 auto 12px;
+    filter: grayscale(20%) contrast(1.05);
+    transition: filter 0.3s ease;
+}
+
+.game-card:hover .card-img-top {
+    filter: grayscale(0%) contrast(1.1);
 }
 
 .card-title {
-    font-size: 18px;
-    font-weight: bold;
-    color: #333;
+    font-size: 17px;
+    font-weight: 600;
+    color: #f5f5f5;
     margin-bottom: 8px;
+    letter-spacing: 0.3px;
 }
 
 .card-text {
-    font-size: 14px;
-    color: #555;
+    font-size: 13px;
+    color: #888;
     line-height: 1.5;
     display: -webkit-box;
     -webkit-box-orient: vertical;
@@ -62,37 +122,53 @@ body {
     cursor: pointer;
 }
 
+.card-text:hover {
+    color: #aaa;
+}
+
 .card-text.expanded {
     -webkit-line-clamp: unset;
     overflow: visible;
     text-overflow: unset;
+    color: #bbb;
 }
 
-/* 按钮样式 */
 .btn {
     display: inline-block;
-    padding: 8px 16px; 
-    margin-top: 10px;
-    background: linear-gradient(45deg, #ff6f00, #ff8c00); 
-    color: white;
-    font-size: 14px;  
-    font-weight: bold;
+    padding: 9px 18px;
+    margin-top: 12px;
+    background: linear-gradient(145deg, #4a5a6a, #3a4a5a);
+    color: #f0f4f8;
+    font-size: 13px;
+    font-weight: 600;
     text-decoration: none;
-    border-radius: 30px;
+    border: 1px solid #5a6a7a;
+    border-radius: 6px;
     text-align: center;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 8px rgba(255, 140, 0, 0.5);
-    width: 50%;  
-    margin-left: auto;  
-    margin-right: auto; 
+    transition: all 0.25s ease;
+    box-shadow: 
+        0 2px 6px rgba(0, 0, 0, 0.4),
+        inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+    letter-spacing: 0.5px;
 }
 
 .btn:hover {
-    background: linear-gradient(45deg, #ff8c00, #ff6f00); 
-    transform: scale(1.1);
-    box-shadow: 0 6px 12px rgba(255, 140, 0, 0.7); 
+    background: linear-gradient(145deg, #5a6a7a, #4a5a6a);
+    color: #ffffff;
+    border-color: #6a7a8a;
+    transform: translateY(-1px);
+    box-shadow: 
+        0 4px 10px rgba(0, 0, 0, 0.5),
+        inset 0 1px 0 rgba(255, 255, 255, 0.15);
 }
 
 .btn:active {
-    transform: scale(1); 
+    transform: translateY(0);
+    background: linear-gradient(145deg, #3a4a5a, #2a3a4a);
+    box-shadow: 
+        0 1px 3px rgba(0, 0, 0, 0.4),
+        inset 0 1px 2px rgba(0, 0, 0, 0.3);
 }
