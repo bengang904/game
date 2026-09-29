@@ -59,6 +59,12 @@
     "description": "《Return to Castle Wolfenstein》是一款经典的二战题材第一人称射击游戏。玩家扮演特工 B.J. Blazkowicz，深入纳粹基地执行任务，对抗超自然力量。该作以其卓越的关卡设计和紧张的战斗体验，成为 FPS 游戏史上里程碑式的作品。",
     "url": "https://rtcw.2024-10-24.zip"
   },
+     {
+    "name": "Warsmash",
+    "icon": "images/Warsmash.jpg",
+    "description": "《Warsmash》是《魔兽争霸III：冰封王座》的开源版本，使用 Java 和 LibGDX 引擎。",
+    "url": "https://war3.2024-10-24.zip"
+  },
   {
     "name": "Minecraft",
     "icon": "images/Minecraft.jpg",
