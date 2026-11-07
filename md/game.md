@@ -77,7 +77,7 @@
 | NBA Street V3 | NBA 街头篮球V3 |[网页代码压缩包](https://archive.org/download/nbarecomp-wasm/) |
 | Need For Speed: Underground 2 | 极品飞车：地下狂飙2 |[网页代码压缩包](https://archive.org/download/nfsu2-wasm/) |
 | Need For Speed：Most Wanted | 极品飞车：最高通缉 |[网页代码压缩包](https://archive.org/download/need-for-speed-most-wanted_202610/) |
-| New Super Mario Bros | 新超级马里奥兄弟 |[网页代码压缩包](https://archive.org/download/new-super-mario-bros-wii_20261019/) |
+| New Super Mario Bros. Wii | 新超级马里奥兄弟Wii |[网页代码压缩包](https://archive.org/download/new-super-mario-bros-wii_20261019/) |
 | New Super Mario Bros. U | 新超级马里奥兄弟U |[网页代码压缩包](https://archive.org/download/nsmbu_202611/) |
 | No One Lives Forever 2: A Spy in H.A.R.M.'s Way | 无人永生2：危险间谍 |[网页代码压缩包](https://archive.org/download/noonelivesforever2-wasm/) |
 | Nox | 救世传说 |[网页代码压缩包](https://archive.org/download/nox_20260617/) |
