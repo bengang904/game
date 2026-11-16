@@ -7,6 +7,16 @@
 
 ## 项目完成情况
 
+- **已完成项目数量**：126
+- **未完成项目数量**：2
+- **完成度**：98.44%
+
+## 更新日志：2026-11-16
+
+- 添加《纸片马里奥：千年之门》
+  
+# 备份项目列表
+
 | Name | 名称 | 网页代码压缩包 |
 | :---: | :---: | :---: |
 | American McGee's Alice | 爱丽丝梦游魔境 |[网页代码压缩包](https://archive.org/download/alice-wasm-20261028/) |
@@ -85,7 +95,7 @@
 | OpenRA | 开源红警 |[网页代码压缩包](https://archive.org/download/openra-web_202606/) |
 | OpenRCT2| 过山车大亨2 |[网页代码压缩包](https://archive.org/download/openrct-2-wasm/) |
 | OpenTTD | 开源运输大亨豪华版 |[网页代码压缩包](https://archive.org/download/open-ttd/) |
-| Paper Mario: The Thousand-Year Door | 纸片马里奥：千年之门 |[网页代码压缩包](https://archive.org/download/paper-mario_202611/) |
+| Paper Mario: The Thousand-Year Door | 纸片马里奥：千年之门 |[网页代码压缩包](https://archive.org/download/paper-mario-the-thousand-year-door_202611/) |
 | Pekka Kana 2 | 公鸡培卡2 |[网页代码压缩包](https://archive.org/download/pk2_20260728/) |
 | Pikmin | 皮克敏 |[网页代码压缩包](https://archive.org/download/pikmin-20261111/) |
 | Pikmin 2 | 皮克敏2 |[网页代码压缩包](https://archive.org/download/pikmin2/) |
