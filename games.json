@@ -101,6 +101,12 @@
     "description": "Ruffle Flash 是一个由社区开发的 开源 Flash Player 模拟器，它使用 Rust 语言编写，能在现代浏览器中安全地运行 .swf 文件，无需安装原版 Adobe Flash。",
     "url": "https://flash.2024-10-24.zip"
   },
+     {
+    "name": "3DS 游戏..",
+    "icon": "https://2024-10-24.zip/images/3ds.jpg",
+    "description": "3DS 游戏是是任天堂于2011年推出的掌上游戏，采用上下双屏设计，支持裸眼3D和触摸操作。游戏格式包括3DS、CIA、CXI等。",
+    "url": "https://3ds.2024-10-24.zip"
+  },
    {
     "name": "NDS 游戏..",
     "icon": "https://2024-10-24.zip/images/nds.jpg",
