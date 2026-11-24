@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：132
+- **已完成项目数量**：133
 - **未完成项目数量**：2
-- **完成度**：98.51%
+- **完成度**：98.52%
 
-## 更新日志：2026-11-23
+## 更新日志：2026-11-24
 
-- 添加《星球大战：前线2》
+- 添加《007：谁与争锋》
   
 # 备份项目列表
 
@@ -70,6 +70,7 @@
 | Hexen II | 毁灭巫师2 |[网页代码压缩包](https://archive.org/download/hexen2-wasm/) |
 | Hollow Knight | 空洞骑士 |[网页代码压缩包](https://archive.org/download/hollow-knight-wasm/) |
 | Hollow Knight: Silksong | 空洞骑士：丝之歌 |[网页代码压缩包](https://archive.org/download/hollow-Knight-Silksong-webgame/) |
+| James Bond 007: Everything or Nothing | 詹姆斯·邦德007：生死抉择 |[网页代码压缩包](https://archive.org/download/007_20261124/) |
 | Kerbal Space Program | 坎巴拉太空计划 |[网页代码压缩包](https://archive.org/download/ksp-wasm/) |
 | LEGO Racers | 乐高赛车 |[网页代码压缩包](https://archive.org/download/lego-racers-web/) |
 | Lobotomy Corporation | 脑叶切除公司 |[网页代码压缩包](https://archive.org/download/lobotomy-corporation/) |
@@ -98,7 +99,7 @@
 | OpenRA | 开源红警 |[网页代码压缩包](https://archive.org/download/openra-web_202606/) |
 | OpenRCT2| 过山车大亨2 |[网页代码压缩包](https://archive.org/download/openrct-2-wasm/) |
 | OpenTTD | 开源运输大亨豪华版 |[网页代码压缩包](https://archive.org/download/open-ttd/) |
-| Paper Mario: The Thousand-Year Door | 纸片马里奥：千年之门 |[网页代码压缩包](https://archive.org/download/paper-mario-the-thousand-year-door_202611/) |
+| Paper Mario: The Thousand-Year Door | 纸片马里奥：千年之门 |[网页代码压缩包](https://archive.org/download/paper-mario-the-thousand-year-door_202611/)|
 | Pekka Kana 2 | 公鸡培卡2 |[网页代码压缩包](https://archive.org/download/pk2_20260728/) |
 | Pikmin | 皮克敏 |[网页代码压缩包](https://archive.org/download/pikmin-20261111/) |
 | Pikmin 2 | 皮克敏2 |[网页代码压缩包](https://archive.org/download/pikmin2/) |
