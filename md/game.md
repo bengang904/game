@@ -7,13 +7,12 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：133
+- **已完成项目数量**：134
 - **未完成项目数量**：2
-- **完成度**：98.52%
 
-## 更新日志：2026-11-24
+## 更新日志：2026-11-26
 
-- 添加《詹姆斯·邦德007：生死抉择》
+- 添加《铁拳6》
   
 # 备份项目列表
 
@@ -141,6 +140,7 @@
 | SuperTuxKart | 超级企鹅卡丁车 |[网页代码压缩包](https://archive.org/download/supertuxkart_202606/) |
 | Team Fortress 2 | 绝地要塞2 |[网页代码压缩包](https://archive.org/download/tf2-wasm/) |
 | Tekken 5 | 铁拳5 |[网页代码压缩包](https://archive.org/download/tekken5-wasm/) |
+| Tekken 6 | 铁拳6 |[网页代码压缩包](https://archive.org/download/tekken6_202611/) |
 | Tekken: Dark Resurrection | 铁拳：暗黑复苏 |[网页代码压缩包](https://archive.org/download/tekken-dark-resurrection_202610/) |
 | Terraria | 泰拉瑞亚 |[网页代码压缩包](https://archive.org/download/terraria-wasm/) |
 | The Legend of Zelda: The Wind Waker | 塞尔达传说：风之杖 |[网页代码压缩包](https://archive.org/download/wwhd-wasm/) |
